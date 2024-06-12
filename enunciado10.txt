@@ -1,0 +1,13 @@
+Un equipo de programadores/as, nos ha programado una mini aplicación para gestionar vehículos. Hace unos días, un cliente que vende gafas de alta gama nos pidió si podríamos hacer una evolución de este código, pero en lugar de guardar vehículos, quiere guardar las gafas vendidas en un día.
+
+Formulario 1:
+- Servirá para inicializar las ventas de cada día, para ello deberemos guardar la fecha de hoy, y una predicción de gafas que se van a vender ese día.
+
+Formulario 2:
+- Servirá para ingresar las ventas del día. Cada venta deberá tener un nombre, cantidad y fecha de compra (<input type="datetime-local">). No se podrá insertar una fecha de otro día.
+
+Final:
+- Se mostrará un resumen de las ventas, junto con los productos vendidos. En caso de superar la predicción de ventas se deberá especificar.
+
+Todos los campos serán obligatorios y en caso de ser erróneos, deberán ser marcados en rojo.
+La aplicación se debe comprimir y subir al Moodle.
